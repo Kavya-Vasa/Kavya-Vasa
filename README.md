@@ -9,5 +9,5 @@
 
 🌟 I'm passionate about open source and believe in the power of collaboration to drive innovation forward. I'm excited to contribute to projects that make a meaningful impact and to learn from the vibrant community of developers on GitHub.
 
-📚 Outside of academics, I enjoy [list any hobbies or interests relevant to your profile]. Let's connect and build something awesome together! 🚀
+📚 Outside of academics, I enjoy swimming, cycling, singing, coding, cooking & reading. Let's connect and build something awesome together! 🚀
 
