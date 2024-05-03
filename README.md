@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**Kavya-Vasa/Kavya-Vasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Hey there! I'm Kavya Vasa, a passionate Computer Engineering student currently pursuing my undergraduate degree at Somaiya Vidyavihar University. 
 
@@ -15,4 +11,3 @@
 
 📚 Outside of academics, I enjoy [list any hobbies or interests relevant to your profile]. Let's connect and build something awesome together! 🚀
 
--->
